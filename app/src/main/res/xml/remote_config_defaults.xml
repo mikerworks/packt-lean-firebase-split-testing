@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>experiment_variant</key>
+        <value>no_experiment</value>
+    </entry>
+    <entry>
+        <key>onboarding_color</key>
+        <value>blue</value>
+    </entry>
+    <entry>
+        <key>onboarding_text</key>
+        <value>Sign up now for this beautiful app and benefit from all amazing offers</value>
+    </entry>
+    <entry>
+        <key>onboarding_background</key>
+        <value>strawberry</value>
+    </entry>
+
+</defaultsMap>
+    <!-- END xml_defaults -->
